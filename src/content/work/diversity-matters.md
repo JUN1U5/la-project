@@ -1,10 +1,11 @@
 ---
 title: Why Diversity in Clinical Trials Matters, with Karen Correa, PhD
 publishDate: 2024-10-10 00:00:00
-img: /assets/stock-3.jpg
-img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
+img: https://images.unsplash.com/photo-1518152006812-edab29b069ac?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+img_alt: microscopes lined up on lab tables
 description: |
   In our debut episode of mdtalk, we discuss the importance of increasing diversity and achieving true representation in clinical trials, and what needs to happen to create lasting change.
+category: Podcast
 tags:
   - COVID-19
   - Diversity
