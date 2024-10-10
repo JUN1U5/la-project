@@ -1,6 +1,6 @@
 ---
 title: Evaluating the FDA's Diversity Action Plans for Clinical Trials
-publishDate: 2019-10-02 00:00:00
+publishDate: 2024-09-06 00:00:00
 img: https://assets.medpagetoday.net/media/images/111xxx/111834.jpg?width=0.8
 img_alt: The Food and Drug Administration headquarters
 description: |
